@@ -15,7 +15,7 @@ int main(){
 3. slučajni sadržaj memorijske lokacije
 4. ovisi o postavkama projekta
 
-Odgovor: ____
+Odgovor: ___1_
 
 **2.**
 ```
