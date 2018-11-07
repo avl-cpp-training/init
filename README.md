@@ -81,4 +81,4 @@ int main(){
 3. 8
 4. ovisi o postavkama projekta
 
-Odgovor: 8
+Odgovor: 3
