@@ -15,7 +15,7 @@ int main(){
 3. slučajni sadržaj memorijske lokacije
 4. ovisi o postavkama projekta
 
-Odgovor: ____
+Odgovor: 3
 
 **2.**
 ```
@@ -30,7 +30,7 @@ int main(){
 3. slučajni sadržaj memorijske lokacije
 4. ovisi o postavkama projekta
 
-Odgovor: ____
+Odgovor: 3
 
 **3.** 
 ```
@@ -44,7 +44,7 @@ int main(){
 3. 4294967295
 4. ovisi o postavkama projekta
 
-Odgovor: ____
+Odgovor: 3
 
 **4.**
 ```
@@ -63,7 +63,7 @@ int main(){
 3. 2 1
 4. 2 2
 
-Odgovor: ____
+Odgovor: 2
 
 **5.** 
 ```
@@ -81,4 +81,4 @@ int main(){
 3. 8
 4. ovisi o postavkama projekta
 
-Odgovor: ____
+Odgovor: 2
